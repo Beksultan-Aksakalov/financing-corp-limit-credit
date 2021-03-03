@@ -37,7 +37,7 @@ function App() {
       <Form scrollToForm={scrollToPostForm} refProp={formRef} lang={lang} />
       <Starbusiness />
       <CallUs />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
