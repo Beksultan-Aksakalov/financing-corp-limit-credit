@@ -36,7 +36,7 @@ function App() {
       <Tabs lang={lang} />
       <Form scrollToForm={scrollToPostForm} refProp={formRef} lang={lang} />
       <Starbusiness />
-      <CallUs />
+      {/* <CallUs /> */}
       <Footer />
     </div>
   );
