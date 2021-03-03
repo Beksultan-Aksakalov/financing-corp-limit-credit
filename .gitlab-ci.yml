@@ -1,0 +1,3 @@
+include:
+  - project: 'omni-channel-front/gf-devops'
+    file: 'generic-nodejs-template.yaml'
